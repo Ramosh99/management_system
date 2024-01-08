@@ -1,0 +1,152 @@
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\appsettings.json
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.exe
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.deps.json
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.runtimeconfig.json
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.pdb
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Azure.Core.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Azure.Identity.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Humanizer.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.CodeDom.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Memory.Data.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.AssemblyReference.cache
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.AssemblyInfoInputs.cache
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.AssemblyInfo.cs
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.CoreCompileInputs.cache
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.signin forAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.build.signin forAPI.props
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.signin forAPI.props
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.signin forAPI.props
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\scopedcss\bundle\signin forAPI.styles.css
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.CopyComplete
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.dll
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\refint\signin forAPI.dll
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.pdb
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.genruntimeconfig.cache
+D:\New folder (2)\for_test_crud\signin for\obj\Debug\net7.0\ref\signin forAPI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\appsettings.Development.json
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\appsettings.json
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.exe
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.deps.json
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.runtimeconfig.json
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\signin forAPI.pdb
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Azure.Core.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Azure.Identity.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Humanizer.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.CodeDom.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Memory.Data.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\for_test_crud\signin for\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.AssemblyReference.cache
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.AssemblyInfoInputs.cache
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.AssemblyInfo.cs
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.CoreCompileInputs.cache
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.signin forAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.build.signin forAPI.props
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.signin forAPI.props
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.signin forAPI.props
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.pack.json
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.build.json
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\staticwebassets.development.json
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\scopedcss\bundle\signin forAPI.styles.css
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.csproj.CopyComplete
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.dll
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\refint\signin forAPI.dll
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.pdb
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\signin forAPI.genruntimeconfig.cache
+D:\code\for_test_crud\signin for\obj\Debug\net7.0\ref\signin forAPI.dll
